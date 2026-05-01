@@ -12,7 +12,7 @@
 ### ⚡ What I Do
 - 📱 Building modern Android apps using **Kotlin + Jetpack Compose**.
 - 🎮 Creating experimental, low-footprint games (like **Echo Hunter**) using custom logic & Canvas.
-- 🧠 Obsessed with performance optimization (engineering apps under **~50KB** 😄).
+- 🧠 Obsessed with performance optimization (engineering apps in **KBs** 😄).
 - ⚙️ Deeply curious about system-level architecture and how things work under the hood.
 
 ---
@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 Featured Project
-- 🎯 **[Echo Hunter](https://github.com/dev-Alok-Kumar-android)** – An ultra-light Android game built with custom rendering to minimize APK size and maximize performance.
+- 🎯 **[Echo Hunter](https://github.com/dev-Alok-Kumar-android/EchoHunter)** – An ultra-light Android game built with custom rendering to minimize APK size and maximize performance.
 
 ---
 
