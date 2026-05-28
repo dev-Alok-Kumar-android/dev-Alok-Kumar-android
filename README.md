@@ -43,10 +43,7 @@ And
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-Alok-Kumar-android&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats (Temporarily unavailable due to API rate limits)" /> 
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Alok-Kumar-android&layout=compact&theme=dracula" alt="Top Languages (Server down or API limit reached)" />
-  <br><br>
+
   <a href="https://github.com/dev-Alok-Kumar-android/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-Alok-Kumar-android&theme=radical" alt="GitHub Streak (Temporarily unavailable due to API rate limits)" />
   </a>
